@@ -1,4 +1,5 @@
-# Object-Detection-OpenCV
+# Object-Detection-OpenCV-PreTrainedModel
+
 Object detection using OpenCV Library with pre trained model.
 
 In this python program, I have used pre trained model for object detection. 
